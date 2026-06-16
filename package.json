@@ -10,9 +10,5 @@
   "scripts": {
     "start": "npx nullstack start",
     "build": "npx nullstack build"
-  },
-  "dependencies": {
-    "react": "^19.2.7",
-    "react-dom": "^19.2.7"
   }
 }
