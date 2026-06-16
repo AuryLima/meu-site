@@ -25,7 +25,6 @@ prepare({ page }) {
   render() {
     return (
       <body>
-        <Head />
         <Home route="/" greeting="Nulla-chan te dá as boas vindas!" />
       </body>
     )
