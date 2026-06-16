@@ -62,16 +62,7 @@ nav a:hover {
   font-size: 110px;
   font-weight: 900;
   line-height: 0.9;
-
-  background: linear-gradient(
-    90deg,
-    #3d5afe,
-    #3d5afe
-  );
-
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-
+  color: #3d5afe;
   margin: 0;
 }
 
